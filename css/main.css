@@ -1,0 +1,19 @@
+*{
+    outline: 1px solid rgba(255,0,0,0.3);}
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-size: cover;}
+.contain{
+    background-color:  rgba(0,0,0,0.5);
+    margin: 200px auto;
+    border-radius: 5px;
+    color: #fff;
+}
+.username{
+    padding: 30px;
+}
+.avatar img{
+    border-radius: 50%;
+}
+
